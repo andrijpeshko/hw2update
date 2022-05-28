@@ -1,0 +1,154 @@
+.web,
+.logo {
+    color: #2196F3;
+    font-family: 'Raleway',sans-serif;
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        /* identical to box height */
+    
+        letter-spacing: 0.03em;
+
+
+}
+
+.logo {
+
+    color: #000000;
+    text-decoration: none;
+
+}
+
+.navigation {
+
+    font-family: 'Roboto', sans-serif;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+    list-style: none;
+    text-decoration: none;
+
+
+}
+
+.navigation:hover,
+.navigation:focus {
+    color: #2196F3;
+    ;
+
+}
+
+.contacts {
+    font-family: 'Roboto',sans-serif;
+    
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+
+    color: #757575;
+    text-decoration: none;
+
+}
+
+.contact-list, .footer-list, .nav-list, .contact-list{
+        list-style-type: none;
+    }
+
+    .contacts:hover, .contacts:focus {
+        color: #2196F3;
+    }
+/* ---------------------main--------------------------- */
+
+
+body{
+    font-family: 'Roboto',sans-serif ;
+}
+
+
+
+.btn {
+    font-family: 'Roboto',sans-serif;
+        
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.62;
+        /* identical to box height, or 162% */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+        background-color:#F5F4FA;
+        border-radius: 4px;
+}
+.btn:hover {
+    background-color:#2196F3;
+}
+.buttons-group, .products{
+    list-style: none;
+}
+.product-title {
+    
+        
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 2;
+        
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+}
+.product-type {
+   
+        
+        
+        font-size: 16px;
+        line-height: 1.87;
+        
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+/* -------------------------------footer------------------------- */
+
+.address {
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    
+    font-size: 14px;
+    line-height:1.71;
+    font-style: normal;
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+.footer {
+    background: #2F303A
+}
+
+.logo-footer {
+    color: white;
+}
+.contacts-footer {
+    font-family: 'Roboto';
+        font-style: normal;
+        
+        font-size: 14px;
+        line-height:1.71;
+    
+        letter-spacing: 0.03em;
+    
+        color: rgba(255, 255, 255, 0.6);
+        text-decoration: none;
+}
